@@ -1,0 +1,32 @@
+# Pour éviter de céder au confusionnisme et au conspirationnisme.
+# Cette liste est (dans sa première version du moins) basée sur 
+# la liste publiée par Les Morbacks Véners :
+# http://www.parasite.antifa-net.fr/liste-non-exhaustive-des-sites-conspirationnistes-et-confusionnistes-version-2015/
+
+# Activeast : conspirationnisme, confusionnisme, antisémitisme, extrême droite,
+# sympathisant Soral, Dieudonné, Cercle des volontaires 
+||activeast.wordpress.com$document
+||activeast.free.fr$document
+
+# Actuwiki : conspirationnisme, confusionnisme, contre-information, pseudo-sciences etc.
+# Une espèce de wikistrike-like (voir Wikistrike à W)
+||actuwiki.fr$document
+||www.youtube.com/user/Actuwiki$document
+
+# Agence Info Libre : conspirationnisme, confusionnisme, antisémitisme, tendance extrême droite.
+# Relaye Soral, Dieudonné, la « dissidence », la complosphère etc.
+||www.agenceinfolibre.fr$document
+
+# Agoravox : repaire de conspirationnistes, soraliens, de sympathisants de l’extrême droite qui diffusent
+# tranquillement leurs théories fumeuses au milieu desquels se retrouvent quelques gauchistes égarés
+||www.agoravox.fr$document
+
+# Alterinfo : conspirationnisme, antisémitisme, confusionnisme, contre-information, pseudo-science
+||www.alterinfo.net$document
+
+# Arrêt sur info : conspirationnisme, contre-information
+||arretsurinfo.ch$document
+
+# Association-sdf.com : identitaires faisant dans « l’humanitaire » spécialisés dans les soupes au cochon,
+# les fameuses soupes identitaires - Site plus en ligne mais quelques pages au format pdf tournent encore
+||www.association-sdf.com$document
