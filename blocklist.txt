@@ -3,7 +3,7 @@
 # la liste publiée par Les Morbacks Véners :
 # http://www.parasite.antifa-net.fr/liste-non-exhaustive-des-sites-conspirationnistes-et-confusionnistes-version-2015/
 
-# .----------------.
+#  .----------------.
 # | .--------------. |
 # | |      __      | |
 # | |     /  \     | |
@@ -43,7 +43,7 @@
 # les fameuses soupes identitaires - Site plus en ligne mais quelques pages au format pdf tournent encore
 ||www.association-sdf.com$document
 
-# .----------------.
+#  .----------------.
 # | .--------------. |
 # | |   ______     | |
 # | |  |_   _ \    | |
@@ -75,3 +75,93 @@
 # Bastille République Nations : confusionnisme, nationalisme / chauvinisme, souverainisme ;
 # on compte parmi les intervenants des membres du parti d’extrême droite l’UPR, ainsi qu’un négationniste
 ||www.brn-presse.fr$document
+
+#  .----------------. 
+# | .--------------. |
+# | |     ______   | |
+# | |   .' ___  |  | |
+# | |  / .'   \_|  | |
+# | |  | |         | |
+# | |  \ `.___.'\  | |
+# | |   `._____.'  | |
+# | |              | |
+# | '--------------' |
+#  '----------------' 
+
+# Ce que les médias ne nous disent pas : conspirationnisme, antisémitisme, tendance extrême droite
+||cequelesmediasnenousdisentpas.over-blog.com$document
+
+# Cercle des volontaires : conspirationnisme, tendance extrême droite, tentative d’entrisme, confusionnisme 
+||www.cercledesvolontaires.fr$document
+
+# blog de Charles Dornach ou Véritas, véritas ! : conspirationnisme, tendance extrême droite
+||charlesdornach.wordpress.com$document
+
+# Chantal Dupille ou eva R-sistons : conspirationniste, confusionnisme, membre du parti d’extrême droite,
+# a contribué à Le Grand Soir (voir à L), antisémitisme, pro-Poutine, à la tête d’une flotte de sites 
+# et de blogs ainsi que de comptes twitter liés
+||twitter.com/rsistons$document
+||anti-fr2-cdsl-air-etc.over-blog.com$document
+||chantaldupille.fr$document
+||chantaldupille.over-blog.com$document
+||eva-communion-civilisations.eklablog.com$document
+||eva-communion-civilisations.over-blog.com$document
+||jeunes.actualite.over-blog.com$document
+||actualiteevarsistons.eklablog.com$document
+||chantal-dupille.eklablog.com$document
+||r-sistons.over-blog.com$document
+||eva-coups-de-coeur.eklablog.com$document
+||eva-coups-de-coeur.over-blog.com$document
+||r-sistons.eklablog.com$document
+||no-war.over-blog.com$document
+||r-sistons-actu.skynetblogs.be$document
+||eva-desinfo.eklablog.com$document
+||r-sistons.eklablog.com$document
+||no-war.eklablog.com$document
+||senior-infos.eklablog.com$document
+||sos-crise.eklablog.com$document
+||sos-crise.over-blog.com$document
+
+# Etienne Chouard : conspirationnisme, confusionnisme, s’acoquine avec l’extrême droite et diffuse sa propagande 
+||chouard.org/blog$document
+||etienne.chouard.free.fr/Europe$document
+||www.facebook.com/etienne.chouard$document
+||twitter.com/etienne_chouard$document
+
+# CNR-RUE Comité National de Résistance Républicaine à l’Union Européenne : espèce de charnière entre
+# les rouges-bruns du PRCF et la secte d’extrême droite de l’UPR
+||cnr-rue.fr$document
+
+# Colibris – le mouvement : écologie confusionniste, dérives réactionnaires, sexisme, homophobie / LGBT-phobie 
+||www.colibris-lemouvement.org$document
+
+# Comité Valmy : confusionnisme, nationalisme / chauvinisme, soutien à des régimes autoritaires 
+||www.comite-valmy.org$document
+
+# Comptoir : repaire du noyau dur des cocus de Ragemag, dérives réactionnaires
+||comptoir.org$document
+
+# Conspipedia : conspirationnisme, tendance extrême droite
+||www.conspipedia.fr$document
+
+# Constleprout : soralien au départ, sympathisant FN affiché aujourd’hui.
+# Blog plus alimenté depuis mars 2014 mais compte twitter très actif 
+||constleprout.wordpress.com$document
+||twitter.com/constleprout$document
+
+# Contrepoints : faux-nez d’extrême droite, confusionnisme, populisme
+||www.contrepoints.org$document
+
+# Contribuables.org : contre-information, tendance droite radicale (dérapages poujadistes)
+||www.contribuables.org$document
+
+# Cpt Anderson (chaînes Youtube et dailymotion) : conspirationnisme, antisémitisme,
+# tendance extrême droite, proche Dieudonné, la « dissidence » etc. 
+||www.dailymotion.com/CptAnderson$document
+||www.youtube.com/user/CptAnderson$document
+
+# Crashdebug.fr : conspirationnisme, tendance extrême droite
+||www.crashdebug.fr$document
+
+# Culture pour tous : SARL de Soral qui organise des stages survivalistes
+||www.culture-pour-tous.fr$document
