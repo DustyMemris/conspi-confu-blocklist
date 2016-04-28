@@ -165,3 +165,37 @@
 
 # Culture pour tous : SARL de Soral qui organise des stages survivalistes
 ||www.culture-pour-tous.fr$document
+
+#  .----------------. 
+# | .--------------. |
+# | |  ________    | |
+# | | |_   ___ `.  | |
+# | |   | |   `. \ | |
+# | |   | |    | | | |
+# | |  _| |___.' / | |
+# | | |________.'  | |
+# | |              | |
+# | '--------------' |
+#  '----------------' 
+
+# Dazibaoueb : confusionnisme, site se réclamant de l’altermondialisme mais servant
+# de caisse de résonance au Parti Antisioniste, à Dieudonné et à Soral ; plus en ligne
+# mais le nom de domaine a visiblement été revendu par son propriétaire 
+||www.dazibaoueb.com$document
+
+# Démocratie directe en France : confusionnisme, chauvinisme, tendance rouge-brun,
+# se fait passer pour une promotion de la démocratie directe, focalisation sur les étrangers
+# mais épargne soigneusement le capital
+||democratie-directe-en-france.blogspot.com$document
+
+# Démosophie : confusionnisme, conspirationnisme, pseudo-médecine,
+# proche Cercle des volontaires, Egalité et réconciliation, Meta tv
+||www.demosophie.com$document
+
+# Diatala : conspirationnisme, antisémitisme 
+||www.diatala.org$document
+||twitter.com/diatalaDiatala$document
+
+# Diktacratie : conspirationnisme, antisémitisme, tendance rouge-brun, un moment proche de Soral
+# mais fâché depuis comme une importante fraction de la « dissidence » 
+||diktacratie.com$document
