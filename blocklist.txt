@@ -1,10 +1,22 @@
 # Pour éviter de céder au confusionnisme et au conspirationnisme.
-# Cette liste est (dans sa première version du moins) basée sur 
+# Cette liste est (dans sa première version du moins) basée sur
 # la liste publiée par Les Morbacks Véners :
 # http://www.parasite.antifa-net.fr/liste-non-exhaustive-des-sites-conspirationnistes-et-confusionnistes-version-2015/
 
+# .----------------.
+# | .--------------. |
+# | |      __      | |
+# | |     /  \     | |
+# | |    / /\ \    | |
+# | |   / ____ \   | |
+# | | _/ /    \ \_ | |
+# | ||____|  |____|| |
+# | |              | |
+# | '--------------' |
+#  '----------------'
+
 # Activeast : conspirationnisme, confusionnisme, antisémitisme, extrême droite,
-# sympathisant Soral, Dieudonné, Cercle des volontaires 
+# sympathisant Soral, Dieudonné, Cercle des volontaires
 ||activeast.wordpress.com$document
 ||activeast.free.fr$document
 
@@ -30,3 +42,36 @@
 # Association-sdf.com : identitaires faisant dans « l’humanitaire » spécialisés dans les soupes au cochon,
 # les fameuses soupes identitaires - Site plus en ligne mais quelques pages au format pdf tournent encore
 ||www.association-sdf.com$document
+
+# .----------------.
+# | .--------------. |
+# | |   ______     | |
+# | |  |_   _ \    | |
+# | |    | |_) |   | |
+# | |    |  __'.   | |
+# | |   _| |__) |  | |
+# | |  |_______/   | |
+# | |              | |
+# | '--------------' |
+#  '----------------'
+
+# Belle et rebelle « webzine féminin non-conforme » : faux-nez d’extrême droite tendance identitaire
+||www.belle-et-rebelle.com$document
+
+# Best of actus : antisémitisme, conspirationnisme
+||bestofactus.wordpress.com$document
+
+# BistroBarBlog (BBB) : conspirationnisme et pseudo-sciences
+# au milieu d’un blog dédié à la décoration et aux fleurs
+||bistrobarblog.blogspot.fr$document
+
+# Blanrue – Le Clan des vénitiens : conspirationnisme, antisémitisme, tendance extrême droite,
+# soutien de l’auteur du blog à des négationnistes et engagement dans le négationnisme
+||blanrue.blogspot.fr$document
+
+# Boulevard Voltaire : conspirationnisme, confusionnisme, proximité avec l’extrême droite et la « dissidence »
+||www.bvoltaire.fr$document
+
+# Bastille République Nations : confusionnisme, nationalisme / chauvinisme, souverainisme ;
+# on compte parmi les intervenants des membres du parti d’extrême droite l’UPR, ainsi qu’un négationniste
+||www.brn-presse.fr$document
