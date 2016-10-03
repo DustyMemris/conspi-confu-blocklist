@@ -266,6 +266,13 @@
 #  | |              | |
 #  | '--------------' |
 #   '----------------' 
+
+# Global presse / Global relay network « info alternative » : conspirationnisme, contre-information
+|| globalepresse.com$document
+
+# Global research : conspirationnisme, tendance extrême droite, version internationale de Mondialisation.ca
+|| www.globalresearch.ca$document
+
 #   .----------------. 
 #  | .--------------. |
 #  | |  ____  ____  | |
