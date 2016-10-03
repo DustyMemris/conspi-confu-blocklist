@@ -304,6 +304,37 @@
 #  | |              | |
 #  | '--------------' |
 #   '----------------' 
+
+
+# Independenza webtv : conspirationnisme, antisémitisme, tendance extrême droite, proche de Dieudonné, de la « dissidence » etc.
+|| www.independenza-webtv.com$document
+|| www.youtube.com/user/independenzawebtv$document
+
+# Info-contre-info : conspirationnisme, confusionnisme, contre-information, tendance droite radicale probablement ; reprend des « informations » d’un peu partout, y compris de la complosphère
+|| www.info-contre-info.fr$document
+
+# Info libre : hors ligne, devenue Agence info libre. chaîne youtube (désormais celle d’Agence info libre)
+|| www.youtube.com/user/infosdontonparlepeu$document
+
+# Info wars (sites en anglais) : conspirationnisme, tendance droite radicale américaine (très actif sur Youtube et réseaux sociaux également)
+|| www.infowars.com$document
+|| infowars.net$document
+
+# Infoguerre : faux-nez d’extrême droite
+|| www.infoguerre.fr$document
+
+# Inform’Action : conspirationnisme, confusionnisme, contre-information
+|| www.informaction.info$document
+
+# Initiative communiste (site officiel du PRCF) : rouges-bruns stalinoïdes, conspirationnisme, chauvinisme / nationalisme, confusionnisme 
+|| www.initiative-communiste.fr$document
+
+# IREF – Institut de recherches économiques et fiscales : contre-information, tendance droite radicale (dérapages poujadistes)
+|| fr.irefeurope.org$document
+
+# Islaminfo.fr : conspirationnisme, contre-information, communautarisme
+|| www.islametinfo.fr$document
+
 #   .----------------. 
 #  | .--------------. |
 #  | |     _____    | |
