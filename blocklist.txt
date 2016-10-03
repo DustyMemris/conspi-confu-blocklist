@@ -199,3 +199,27 @@
 # Diktacratie : conspirationnisme, antisémitisme, tendance rouge-brun, un moment proche de Soral
 # mais fâché depuis comme une importante fraction de la « dissidence » 
 ||diktacratie.com$document
+
+#  .----------------. 
+# | .--------------. |
+# | |  _________   | |
+# | | |_   ___  |  | |
+# | |   | |_  \_|  | |
+# | |   |  _|  _   | |
+# | |  _| |___/ |  | |
+# | | |_________|  | |
+# | |              | |
+# | '--------------' |
+#  '----------------' 
+
+# E-veil : islamiste soralien, conspirationnisme, confusionnisme, antisémitisme, proche de Michel Collon
+|| www.e-veil.org$document
+
+# Egalité et réconciliation : racisme, antisémitisme, xénophobie, homophobie et LGBT-phobie, conspirationnisme, confusionnisme etc. proprio : Alain Soral
+|| www.egaliteetreconciliation.fr$document
+
+# Esprit science métaphysique : conspirationnisme, contre-information, pseudo-sciences, ésotérisme
+|| www.espritsciencemetaphysiques.com$document
+
+# L’Etoile noire et verte : alliance nationale-anarchiste, « dissidence », confusionnisme, conspirationnisme, partisan de feu Kadhafi ayant donc pour bible « Le livre vert »
+|| etoilenoire.hautetfort.com$document
